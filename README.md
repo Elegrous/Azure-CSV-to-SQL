@@ -22,3 +22,7 @@ Modify Data Types if necessary: <br/>
 Import Data<br/>
 <img width="350" alt="image" src="https://user-images.githubusercontent.com/44158648/154161321-42fe29ad-27a3-4e92-9d26-fdb48c7a7671.png"><br/>
 Done
+
+Also to see Data Schema needs to install "Schema Visualization" extension.
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/44158648/154267047-dd9c3a49-eb7b-4bf6-8acf-406ac12ade3c.png">
+
